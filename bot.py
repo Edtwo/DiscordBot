@@ -3,8 +3,8 @@ from discord.ext import commands
 from discord import app_commands
 import responses
 
-TOKEN = 'MTA3NzI1NjgwMTE1NTgyNTcwNQ.GsMq9A.WIVDdRhxwnTGASzl3DhK57plVxH1VZqL2aH1fg'
-
+TOKEN = 'PLACEHOLDER'
+#place the token here
 client = commands.Bot(command_prefix='.', intents=discord.Intents.all())
 
 @client.event
