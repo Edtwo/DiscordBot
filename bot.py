@@ -102,16 +102,59 @@ async def david(ctx):
 @client.command()
 async def rice(ctx):
     await ctx.send("Rice is a very popular grain in Asia, and all around the world. In Asia, we have it almost everyday with our meal. If you never seen rice before, then that is a shame. Rice comes in many colors. White, black, Yellow, you name it. But my favorite is white sticky rice. White sticky rice, is basically normal rice with but with more water so it is more moist. Genetics have shown that rice has been rice was domesticated 8,000-13,000 years ago in China, near the Pearl River Valley. There are myths about Rice and how it is a gift from the Animals in China. It was said that, during a flood, all the crops been wiped out, and so the people had nothing to eat. Then one day, a dog cane by and gave the people rice grain. They grew it and then hunger disappeared. My Grandpa owns a farm, in which he grows rice. Approximately in 1 cup of uncooked rice there are 2 cups of cooked rice. Rice in my opinion is one of world most creative carbohydrate. You can make anything out of rice. You name it. But what can you do with bread. Nothing. You can literally sculpts things with rice. But with bread, all you can do is stack it. Whats the fun for stacking. With Rice, you can make little balls out of it and chuck it. What can you do with bread. Chuck the whole loaf? Who would in the right mind chuck a loaf of bread. With rice, you can do anything. Anyways leave a comment saying whats your favorite type of grain.")
-client.run(TOKEN)
 
 @client.command()
-async def (ctx):
-    await ctx.send("")
+async def val(ctx):
+    await ctx.send("""UNINSTALLING VALORANT
+▇▇▇▇▇▇▇▇▇▇▇▇▇▇▢
+　　╭━╮╭━╮╭╮　╱ 　　
+　　╰━┫╰━┫╰╯╱╭╮ 　　
+　　╰━╯╰━╯　╱　╰╯ 　　　　　
+　　　     COMPLETE""")
+
+@client.command()
+async def eldenring(ctx):
+    await ctx.send("""Shut the fuck up you maggot. You clearly don't understand what makes a great video game. Elden Ring is a beautifully crafted masterpiece with a rich-open, beautiful graphics, fantastical gameplay, a great narrative, great quest design and it gives a ton of freedom and an actual challenge. Meanwhile all the other games that came out this year are overrated, mediocre games with boring, generic and repetitive gameplay, boring and uninteresting narratives and keep telling you what to do every 5 seconds. You and the people that support these kinds of doghit games are everything that is wrong this the gaming industry. These companies give you garbage and you guys eat it up and ask for more. Elden Ring is literally the only game that deserves to be called a true video game. Everything else is a joke and a scam. So fuck you, fuck all the people that pay for it, and fuck these companies that keep pumping these shitty mediocre kiddy games. I hope all of you fuckers die. Elden Ring and FromSoftware deserve all the praise and much more. They are single-handedly carrying the entire gaming industry with their state of the art games.
+
+""")
+
+@client.command()
+async def riley(ctx):
+    await ctx.send("pho slurper chink")
     
 @client.command()
-async def (ctx):
-    await ctx.send("")
-    
-    
-    
+async def kai(ctx):
+    await ctx.send("6 ft korean boy who LOVES a good k drama (he likes looking at the big muscular men)")
+
+@client.command()
+async def ben(ctx):
+    await ctx.send("silly korean boy is fr a egotist blue lockian")
+
+@client.command()
+async def derek(ctx):
+    await ctx.send("bro is not a dino silly asian boy go back to where you came from!! (the land of the yellows)")
+
+@client.command()
+async def wick(ctx):
+    await ctx.send("""INDIA IS SUPERIOR
+I invite you to visit my great nation and see for yourself what it was BEFORE YOU MOTHERFUCKING BURGLARS LOOTED IT. You double crossing snakes left us in poverty. You think you magically became an advanced civilization brimming with technological marvels? I'm not asking you. There's no room for your worthless opinion. The answer is FUCK NO. Almost everything that separates you from a monkey originated in Maha Bharatha. Can you even begin to comprehend the depth of that sentence? I guess not, Average Joe. If I have to make it into a list, I'll have to publish a book. So yeah. Point at me in public. Tell the world I'm an Indian. There's nothing that makes me more proud. If you can't respect this great nation, it shows who you are. You can't bring India down. I'm the newest product from the world's oldest and most experienced company. I will crush you with my left foot so hard, even the vultures wont be able to scavenge your flesh.""")
+
+@client.command()
+async def mefr(ctx):
+    await ctx.send("""I violently sharted in a McDonald’s, March 4th, 1998
+nsfw
+I violently, aggressively, explosively, intensely, passionately, vehemently sharted my jorts in a McDonald’s hamburger shaped seat on March 4th, 1998. It smelled like spiced Gouda aged in a hot metal can with a slight aura of pickled onions and expired diesel fuel. As I looked down my leg, I saw a trickle of what appeared to be an orange, brownish-red nuclear Shart substance, something akin to a chemical weapon. The liquid Shart scent filled the air of the restaurant, causing customers to dry heave, cover their nose; I even recall an employee asking the staff “who took a shit in the deep fryer?”
+
+The health department ended up showing up and doing a thorough corporate investigation of that particular location. Turns out they were breaking all types of health protocols and were promptly shut down, and if you think about it, it was all because of sharting my jorts.""")
+
+@client.command()
+async def anthony(ctx):
+    await ctx.send("ANTHONY STOP EATING ALL THE FOOODODDDD THATS CHEATTTTTING")
+
+@client.command()
+async def neel(ctx):
+    await ctx.send("follow tyranno on soundcloud")
+
+
+
 client.run(TOKEN)
